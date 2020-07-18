@@ -13,3 +13,10 @@ Laravel Project For Payemnt Gateway Demo.:
 
 - run 'composer install'.
 - run 'php artisan serve'.
+
+Use Below card details for Dummy:
+type: Visa
+number: 4556 3565 0993 8276
+cvv: 185
+exp: 09/20
+name: AIDEN BARRINGTON
